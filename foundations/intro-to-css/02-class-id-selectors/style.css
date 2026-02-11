@@ -4,12 +4,12 @@
 * **The fourth element**: a light green background, a font size of 24px, and bold
 */
 
-.my-class {
-    background-color: rgb(245, 176, 240);
+.odd-class {
+    background-color: rgb(216, 156, 212);
     font-family: "Verdana", "DejaVu Sans", sans-serif;
 }
 
-.my-class.cooler {
+.odd-class.cooler {
     font-size: 24px
 }
 
